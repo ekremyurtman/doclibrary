@@ -1,0 +1,10 @@
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\bin\Debug\netcoreapp3.1\DocLibrary.Helper.deps.json
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\bin\Debug\netcoreapp3.1\DocLibrary.Helper.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\bin\Debug\netcoreapp3.1\DocLibrary.Helper.pdb
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\obj\Debug\netcoreapp3.1\DocLibrary.Helper.csproj.AssemblyReference.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\obj\Debug\netcoreapp3.1\DocLibrary.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\obj\Debug\netcoreapp3.1\DocLibrary.Helper.AssemblyInfoInputs.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\obj\Debug\netcoreapp3.1\DocLibrary.Helper.AssemblyInfo.cs
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\obj\Debug\netcoreapp3.1\DocLibrary.Helper.csproj.CoreCompileInputs.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\obj\Debug\netcoreapp3.1\DocLibrary.Helper.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Helper\obj\Debug\netcoreapp3.1\DocLibrary.Helper.pdb

@@ -1,0 +1,483 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.WebApi\\DocLibrary.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Business\\DocLibrary.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Business\\DocLibrary.Business.csproj",
+        "projectName": "DocLibrary.Business",
+        "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Business\\DocLibrary.Business.csproj",
+        "packagesPath": "C:\\Users\\ekrem.yurtman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem.yurtman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.rgcore.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Dal\\DocLibrary.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Dal\\DocLibrary.Dal.csproj",
+        "projectName": "DocLibrary.Dal",
+        "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Dal\\DocLibrary.Dal.csproj",
+        "packagesPath": "C:\\Users\\ekrem.yurtman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem.yurtman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.rgcore.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model.Common\\DocLibrary.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model.Common\\DocLibrary.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Entity\\DocLibrary.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Entity\\DocLibrary.Entity.csproj",
+        "projectName": "DocLibrary.Entity",
+        "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Entity\\DocLibrary.Entity.csproj",
+        "packagesPath": "C:\\Users\\ekrem.yurtman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem.yurtman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.rgcore.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model.Common\\DocLibrary.Model.Common.csproj": {
+                "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model.Common\\DocLibrary.Model.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Helper\\DocLibrary.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Helper\\DocLibrary.Helper.csproj",
+        "projectName": "DocLibrary.Helper",
+        "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Helper\\DocLibrary.Helper.csproj",
+        "packagesPath": "C:\\Users\\ekrem.yurtman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem.yurtman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.rgcore.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model.Common\\DocLibrary.Model.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model.Common\\DocLibrary.Model.Common.csproj",
+        "projectName": "DocLibrary.Model.Common",
+        "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model.Common\\DocLibrary.Model.Common.csproj",
+        "packagesPath": "C:\\Users\\ekrem.yurtman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem.yurtman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.rgcore.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model\\DocLibrary.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model\\DocLibrary.Model.csproj",
+        "projectName": "DocLibrary.Model",
+        "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model\\DocLibrary.Model.csproj",
+        "packagesPath": "C:\\Users\\ekrem.yurtman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem.yurtman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.rgcore.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.WebApi\\DocLibrary.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.WebApi\\DocLibrary.WebApi.csproj",
+        "projectName": "DocLibrary.WebApi",
+        "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.WebApi\\DocLibrary.WebApi.csproj",
+        "packagesPath": "C:\\Users\\ekrem.yurtman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ekrem.yurtman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.rgcore.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Business\\DocLibrary.Business.csproj": {
+                "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Business\\DocLibrary.Business.csproj"
+              },
+              "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Dal\\DocLibrary.Dal.csproj": {
+                "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Dal\\DocLibrary.Dal.csproj"
+              },
+              "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Entity\\DocLibrary.Entity.csproj": {
+                "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Entity\\DocLibrary.Entity.csproj"
+              },
+              "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Helper\\DocLibrary.Helper.csproj": {
+                "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Helper\\DocLibrary.Helper.csproj"
+              },
+              "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model\\DocLibrary.Model.csproj": {
+                "projectPath": "C:\\Users\\ekrem.yurtman\\source\\repos\\DocLibrary\\DocLibrary.Model\\DocLibrary.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\bin\Debug\netcoreapp3.1\DocLibrary.Business.deps.json
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\bin\Debug\netcoreapp3.1\DocLibrary.Business.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\bin\Debug\netcoreapp3.1\DocLibrary.Business.pdb
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\obj\Debug\netcoreapp3.1\DocLibrary.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\obj\Debug\netcoreapp3.1\DocLibrary.Business.AssemblyInfoInputs.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\obj\Debug\netcoreapp3.1\DocLibrary.Business.AssemblyInfo.cs
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\obj\Debug\netcoreapp3.1\DocLibrary.Business.csproj.CoreCompileInputs.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\obj\Debug\netcoreapp3.1\DocLibrary.Business.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\obj\Debug\netcoreapp3.1\DocLibrary.Business.pdb
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Business\obj\Debug\netcoreapp3.1\DocLibrary.Business.csproj.AssemblyReference.cache

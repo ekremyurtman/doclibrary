@@ -1,0 +1,10 @@
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\bin\Debug\netcoreapp3.1\DocLibrary.Model.deps.json
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\bin\Debug\netcoreapp3.1\DocLibrary.Model.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\bin\Debug\netcoreapp3.1\DocLibrary.Model.pdb
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\obj\Debug\netcoreapp3.1\DocLibrary.Model.csproj.AssemblyReference.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\obj\Debug\netcoreapp3.1\DocLibrary.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\obj\Debug\netcoreapp3.1\DocLibrary.Model.AssemblyInfoInputs.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\obj\Debug\netcoreapp3.1\DocLibrary.Model.AssemblyInfo.cs
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\obj\Debug\netcoreapp3.1\DocLibrary.Model.csproj.CoreCompileInputs.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\obj\Debug\netcoreapp3.1\DocLibrary.Model.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Model\obj\Debug\netcoreapp3.1\DocLibrary.Model.pdb

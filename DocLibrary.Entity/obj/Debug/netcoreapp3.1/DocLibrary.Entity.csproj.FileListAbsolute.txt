@@ -1,0 +1,16 @@
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\bin\Debug\netcoreapp3.1\DocLibrary.Entity.deps.json
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\bin\Debug\netcoreapp3.1\DocLibrary.Entity.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\bin\Debug\netcoreapp3.1\DocLibrary.Entity.pdb
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.AssemblyInfoInputs.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.AssemblyInfo.cs
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.pdb
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.csproj.AssemblyReference.cache
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\bin\Debug\netcoreapp3.1\DocLibrary.Entity.runtimeconfig.json
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\bin\Debug\netcoreapp3.1\DocLibrary.Entity.runtimeconfig.dev.json
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\bin\Debug\netcoreapp3.1\DocLibrary.Model.Common.dll
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\bin\Debug\netcoreapp3.1\DocLibrary.Model.Common.pdb
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.csproj.CopyComplete
+C:\Users\ekrem.yurtman\source\repos\DocLibrary\DocLibrary.Entity\obj\Debug\netcoreapp3.1\DocLibrary.Entity.genruntimeconfig.cache
